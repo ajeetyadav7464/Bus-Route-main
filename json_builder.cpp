@@ -1,4 +1,3 @@
-sdfg
 #include "json_builder.h"
 
 namespace json {
