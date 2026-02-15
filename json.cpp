@@ -1,4 +1,3 @@
-lkj
 #include "json.h"
 
 #include <iterator>
