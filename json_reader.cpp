@@ -1,4 +1,4 @@
-tyuj;.,mnbv
+tyuj
 #include "json_reader.h"
 #include "json_builder.h"
 
