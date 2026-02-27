@@ -1,4 +1,4 @@
-oifghnbdtyjmnb
+oifghnbdty
 #pragma once
 
 #include "ranges.h"
