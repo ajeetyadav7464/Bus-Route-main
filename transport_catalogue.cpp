@@ -1,4 +1,4 @@
-yymjhhktrmt6kt
+yymjhhkt
 #include "transport_catalogue.h"
 
 namespace transport {
