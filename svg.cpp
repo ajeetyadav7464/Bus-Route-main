@@ -1,4 +1,4 @@
-sdfhytrewsdfgbnjytfdc
+sdfhytrewsdfgb
 #include "svg.h"
 
 namespace svg {
