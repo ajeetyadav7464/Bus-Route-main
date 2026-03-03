@@ -1,4 +1,3 @@
-finfenin
 #pragma once
 
 #include "geo.h"
