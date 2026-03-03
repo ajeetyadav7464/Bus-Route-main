@@ -1,4 +1,4 @@
-finfenin idnwd do2dn2kd onfkd
+finfenin idnwd do2dn2kd
 #pragma once
 
 #include "geo.h"
