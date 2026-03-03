@@ -1,4 +1,4 @@
-finfenin idnwd
+finfenin
 #pragma once
 
 #include "geo.h"
