@@ -1,4 +1,4 @@
-tijb f78 pi]ut79 p[ou kpiu
+tijb f78 pi]ut79 p[ou 
 #define _USE_MATH_DEFINES  // Define to ensure math constants like M_PI are available
 #include "geo.h"           // Include necessary headers
 #include <cmath>           // Include cmath for mathematical functions
