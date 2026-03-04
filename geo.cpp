@@ -1,4 +1,4 @@
-tkft7 mfxyjkxrjxn tnjek
+tkft7 mfxyjkxrjxn 
 #define _USE_MATH_DEFINES  // Define to ensure math constants like M_PI are available
 #include "geo.h"           // Include necessary headers
 #include <cmath>           // Include cmath for mathematical functions
